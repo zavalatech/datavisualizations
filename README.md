@@ -1,2 +1,2 @@
 # datavisualizations
-Some initial visualizations for a data science project (data incubator)
+Some initial visualizations for a data science project
